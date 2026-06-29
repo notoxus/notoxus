@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Thinh 👋</h1>
-<h3 align="center">Breaking things to understand them, then automating the fix.</h3>
 <p align="center">Cybersecurity & Ethical Hacking · SysAdmin / DevSecOps · Tech Blogger</p>
 
 <p align="center">
