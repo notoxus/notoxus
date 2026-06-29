@@ -1,17 +1,9 @@
-<h1 align="center">Hi, I'm Thinh 👋</h1>
-<p align="center">Cybersecurity & Ethical Hacking · SysAdmin / DevSecOps · Tech Blogger</p>
+# Hi, I'm Thinh 👋
+Cybersecurity & Ethical Hacking · SysAdmin / DevSecOps · Tech Blogger
 
-<p align="center">
-  <a href="https://phuocthinh.is-a.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/notoxus/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://tryhackme.com/p/summerthinh3">
-    <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phuocthinh.is-a.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notoxus/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/summerthinh3)
 
 ---
 
