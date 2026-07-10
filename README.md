@@ -1,4 +1,4 @@
-# Hi, I'm Thinh
+# Hi, I'm Thinh!!!
 
 IT Student | Aspiring SysAdmin → DevSecOps or Cybersecurity Fields
 
