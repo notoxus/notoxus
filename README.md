@@ -3,7 +3,7 @@
 IT Student | Aspiring SysAdmin → DevSecOps or Cybersecurity Fields
 
 Passionate about Linux systems, infrastructure automation, and cybersecurity.
-Currently building homelab projects and open-source tools.
+Currently building homelab and open-source projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phuocthinh.is-a.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/notoxus/)
